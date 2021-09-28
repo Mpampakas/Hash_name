@@ -1,3 +1,7 @@
+//notes for test
+//additional notes 
+//additional
+
 #include <iostream>
 #include <cstring>
 #include "class.h"
